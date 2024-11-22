@@ -12,7 +12,7 @@ We Build Trust, We're X Factory
 
 - Created - 2024-10-26
 
-- Technologies Used - Html , css , js , React.js
+- Technologies Used - Html , css 
 
 - Hooks Used : useState 
 
