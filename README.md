@@ -1,5 +1,5 @@
 # Xtra-Factory
-We Build Trust, We're X Factory
+**We Build Trust, We're XFACTORY**
 
 
 ![final view](https://github.com/user-attachments/assets/05f9795d-4ffa-4f9b-927e-7b44ac5923d7)
