@@ -1,4 +1,4 @@
-# Xtra-Factory
+# Xtra Factory
 **We Build Trust, We're XFACTORY**
 
 
